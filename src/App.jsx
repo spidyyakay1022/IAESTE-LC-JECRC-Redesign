@@ -1,3 +1,4 @@
+import React from 'react';
 import {useState} from 'react';
 import {Link,NavLink,Route,Routes} from 'react-router-dom';
 import {ArrowUpRight,ArrowRight,ChevronDown,Menu,X,Globe2,TrendingUp,Languages,Network,Mail,Instagram,Linkedin} from 'lucide-react';
